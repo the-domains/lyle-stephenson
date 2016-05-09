@@ -1,0 +1,28 @@
+name: Lyle Stephenson
+favicon: null
+layout_spectrum: 0.991416999604553
+typography_spectrum: 0.15521897724829614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7523798497859389
+  lightness: 0.1856722761876881
+  saturation: 0.8180784685537219
+  rhythmicContrast: 0.8434124332852662
+purpose: []
